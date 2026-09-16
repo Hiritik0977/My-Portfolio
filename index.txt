@@ -1,0 +1,249 @@
+Personal Portfolio
+
+# sidebar
+
+alt = Hiritik sonar
+Hiritik sonar
+Full-stack Developer 
+React js
+Node js 
+
+Show Contacts
+
+Email
+hititiksonar@gmail.com
+
+Phone
++49 1624597273
+
+Birthday
+Jan 2, 2002
+
+Location
+Berlin, Germany
+
+# navbar
+
+About
+Resume
+Portfolio
+Blog
+Contact
+
+# about
+
+About me
+
+Full-stack developer who ships features end-to-end — responsive React/Angular interfaces, Node.js and Python APIs, and the SQL
+data layer underneath. Two years shipping to production in a CI/CD environment, plus an MSc in Data Science, AI & Digital
+Business in progress. Looking to build software that puts AI capabilities into the hands of real users.
+
+
+## service
+
+What i'm doing
+
+alt = design icon
+Web design
+The most modern and high-quality design made at a professional level.
+
+alt = Web development icon
+Web development
+High-quality development of sites at the professional level.
+
+alt = mobile app icon
+Mobile apps
+Professional development of applications for iOS and Android.
+
+alt = camera icon
+Photography
+I make high-quality photos of any category at a professional level.
+
+
+## testimonials
+
+Testimonials
+
+alt = Jenish Neupane
+Daniel lewis
+Hiritik was hired to create a corporate identity. We were very pleased with the work done. He has a lot of experience and is very concerned about the needs of client.
+
+alt = Prasim Thapa
+Jessica miller
+Hiritik was hired to create a corporate identity. We were very pleased with the work done. He has a lot of experience and is very concerned about the needs of client.
+
+alt = Suyash dhakal
+Emily evans
+Hiritik was hired to create a corporate identity. We were very pleased with the work done. He has a lot of experience and is very concerned about the needs of client.
+
+alt = Manish soni
+Henry william
+Hiritik was hired to create a corporate identity. We were very pleased with the work done. He has a lot of experience and is very concerned about the needs of client.
+
+
+## Skills
+
+Clients
+
+alt = skills logo
+
+
+
+# resume
+
+Resume
+
+Education
+MSc Data Science, AI & Digital Business
+GISMA University of Applied Sciences | 2026–Present
+Currently pursuing an MSc in Data Science, AI & Digital Business, focusing on data analysis, machine learning, artificial intelligence, predictive modelling, and applying data-driven solutions to real-world business problems.
+
+
+Islington College, Hons.Computing
+2021 - 2024
+Through this journey I got deeper understanding of computer science principles, advanced programming skills, and have a strong interest in technology, mathematics, problem-solving, and innovation
+
+Greenland College, +2 Science
+2019 — 2021
+During my +2 educational track I focuses on subjects such as Physics, Chemistry, Biology, Mathematics, and Computer Science.
+
+
+
+Experience
+
+**Full-Stack Developer — Lishnu Tech**
+*Jan 2024 – Dec 2025*
+
+* Shipped production features end-to-end across ~10 sprints — UI through API to database — by owning delivery from user story to deployment and coordinating daily with design and QA in Jira.
+* Improved user task completion speed by 15% by redesigning core React and Angular UI components, translating user stories into responsive, production-ready interfaces.
+* Reduced UI-related production bugs by 20% by writing and maintaining Jest and PyTest unit and integration test suites across both frontend components and backend endpoints.
+* Cut page load and render time by 10–15% by optimizing database indexing and query structure as user load grew.
+* Enabled faster, more reliable releases by containerizing frontend and backend services with Docker inside a CI/CD pipeline, replacing manual release steps.
+* Designed and deployed RESTful API endpoints in Node.js and Python backed by relational SQL databases, serving live.
+
+
+Web design
+90%
+HTML
+95%
+CSS
+90%8%
+UI/UX
+95%
+Nodejs
+90%
+Graphic design
+70%
+Tailwind Css
+80%
+Python 
+85%
+
+
+
+# portfolio
+
+Portfolio
+
+All
+Web design
+Applications
+Web development
+
+Select category
+All
+Web design
+Applications
+Web development
+
+alt = Admin dashboard
+Admin
+Web development
+
+alt = doctor 
+Doctor Appointment
+Web development
+
+alt = jewellers
+Jewellers
+Web design
+
+alt = cloud
+Cloud education
+Applications
+
+alt = data
+Appointment data
+Web design
+
+alt = ecommerce
+Web development 
+Web design
+
+alt = navbar
+Navbar
+Web development
+
+alt = task manager
+Task Manager
+Applications
+
+alt = arrival
+Arrival
+Web development
+
+
+
+# blog
+
+Blog
+
+alt = Design conferences in 2022
+Design
+Fab 23, 2022
+Design conferences in 2022
+Veritatis et quasi architecto beatae vitae dicta sunt, explicabo.
+
+alt = Best fonts every designer
+Design
+Fab 23, 2022
+Best fonts every designer
+Sed ut perspiciatis, nam libero tempore, cum soluta nobis est eligendi.
+
+alt = Design digest #80
+Design
+Fab 23, 2022
+Design digest #80
+Excepteur sint occaecat cupidatat no proident, quis nostrum exercitationem ullam corporis suscipit.
+
+alt = UI interactions of the week
+Design
+Fab 23, 2022
+UI interactions of the week
+Enim ad minim veniam, consectetur adipiscing elit, quis nostrud exercitation ullamco laboris nisi.
+
+alt = The forgotten art of spacing
+Design
+Fab 23, 2022
+The Forgotten Art Of Spacing
+Maxime placeat, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+
+alt = Design digest #79
+Design
+Fab 23, 2022
+Design Digest #79
+Optio cumque nihil impedit uo minus quod maxime placeat, velit esse cillum.
+
+
+
+# contact
+
+Contact
+
+Contact Form
+
+Full name
+Email address
+Your Message
+
+Send Message
